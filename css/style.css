@@ -54,7 +54,6 @@ nav a:hover{
   }
   #feature{
     background-color: yellow;
-    height: 300px;
     display: flex;
   }
   .box{
@@ -69,7 +68,7 @@ nav a:hover{
     height: 400px;
 
   }
-  .boxa h2{
+  .box h2{
    position: absolute;
    bottom: 0%;
    right: 0%;
@@ -80,7 +79,7 @@ nav a:hover{
    font-size: 30px;
    font-family: Georgia, 'Times New Roman', Times, serif;
   }
-  .hs
+  .hs{
     background-color: red0;
     position: absolute;
     top: 0;
@@ -90,4 +89,16 @@ nav a:hover{
     /*border-radius: 100%; */
     font-size:18px;
     font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  #embeded{
+    background-color:wheat;
+    display: flex;
+  }
+  .yt-class{
+    background-color: green;
+    width: 50%;
+  }
+  .google-maps{
+    background-color: yellow;
+    width: 50%;
   }

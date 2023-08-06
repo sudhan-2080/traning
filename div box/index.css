@@ -1,0 +1,30 @@
+/* *{
+    margin: auto;
+    padding: auto;
+   */
+
+.main_box{
+align-items: center;
+background-color: aqua;
+
+}
+/* .main box{
+    display: inline;
+    align-items: center;
+} */
+.rightbox{
+    display: flex;
+    align-items: center;
+}
+.secondbox{
+    display: flex;
+    align-items: center;
+}
+.thirdbox{
+    display: flex;
+    align-items: center;
+}
+.fourthbox{
+    display:flex;
+    align-items: center;
+}
